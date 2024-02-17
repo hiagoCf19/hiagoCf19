@@ -1,7 +1,7 @@
 ### Olá, eu sou Hiago Ferreira
 
 - 🔭 Sou Desenvolvedor Front-end
-- 🌱 Estudando Typescript
+- 🌱 Estudando typescript & node
   
 
 <a href="https://github.com/anuraghazra/convoychat">
