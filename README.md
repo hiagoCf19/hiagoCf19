@@ -1,9 +1,11 @@
-# Olá, eu sou Hiago Ferreira
-## Sobre mim
-Estudante de Análise e Desenvolvimento de Sistemas, prestes a concluir graduação em História pela Universidade Federal Fluminense. Apaixonado por tecnologia, tenho me dedicado ao universo Java, especialmente ao Spring Boot. Estou sempre em busca de aprendizado e atualização para acompanhar as novas tendências no desenvolvimento.
+Desenvolvedor Fullstack atuando profissionalmente em diversos projetos desafiadores. Trabalho com uma ampla variedade de tecnologias, tanto no frontend quanto no backend, entregando soluções completas e eficientes.
 
-- 🔭 Atualmente, estou focado no desenvolvimento TypeScript & Java.
-- 🌱 Estou sempre estudando e buscando aprender mais sobre tecnologias emergentes.
+🔭 Atualmente, contribuo ativamente com múltiplos projetos em diferentes stacks.
+
+⚙️ Minhas principais ferramentas incluem React, Spring Boot, TypeScript, Node.js e muito mais.
+
+🌱 Estou sempre estudando e acompanhando tendências em desenvolvimento de software.
+
   
 ## Tecnologias que eu uso 
 <div style="display: inline_block">
