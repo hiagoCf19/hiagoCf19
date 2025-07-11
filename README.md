@@ -1,15 +1,10 @@
 Desenvolvedor Fullstack atuando profissionalmente em diversos projetos desafiadores. Trabalho com uma ampla variedade de tecnologias, tanto no frontend quanto no backend, entregando soluções completas e eficientes.
 
 🔭 Atualmente, contribuo ativamente com múltiplos projetos em diferentes stacks.
-
-⚙️ Minhas principais ferramentas incluem React, Spring Boot, TypeScript, Node.js e muito mais.
-
 🌱 Estou sempre estudando e acompanhando tendências em desenvolvimento de software.
-
-  
+ 
 ## Tecnologias que eu uso 
 <div style="display: inline_block">
-    <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiagoCf19&layout=donut&theme=dark&langs_count=8&card_width=320" />
 </a>
   <br/>
