@@ -5,7 +5,7 @@ Desenvolvedor Fullstack atuando profissionalmente em diversos projetos desafiado
  
 ## Tecnologias que eu uso 
 <div style="display: inline_block">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiagoCf19&layout=donut&theme=dark&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiagoCf19&layout=donut&theme=dracula&langs_count=8&card_width=320" />
 </a>
   <br/>
   <br/>
