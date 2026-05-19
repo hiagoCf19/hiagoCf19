@@ -1,33 +1,38 @@
-Desenvolvedor Fullstack atuando profissionalmente em diversos projetos desafiadores. Trabalho com uma ampla variedade de tecnologias, tanto no frontend quanto no backend, entregando soluções completas e eficientes.
+# Olá, eu sou o Hiago! 👋
 
-🔭 Atualmente, contribuo ativamente com múltiplos projetos em diferentes stacks.
-🌱 Estou sempre estudando e acompanhando tendências em desenvolvimento de software.
- 
-## Tecnologias que eu uso 
-<div style="display: inline_block">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiagoCf19&layout=donut&theme=dracula&langs_count=8&card_width=320" />
-</a>
-  <br/>
-  <br/>
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white">
-    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white">
-    <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+**Desenvolvedor Full-stack | Graduado em Análise e Desenvolvimento de Sistemas**
 
-  <br/>
-  
-</div><br/>
+Atuo profissionalmente como desenvolvedor, focando em projetos estratégicos de alta complexidade. Tenho forte experiência em modernização de sistemas, arquitetura de microsserviços e desenvolvimento *mobile-first*. Trabalho com uma ampla variedade de tecnologias, tanto no frontend quanto no backend, entregando soluções escaláveis, eficientes e seguras.
 
-## Me encontre na web
-- [LinkedIn](https://www.linkedin.com/in/dev-hiago79216/)
-- [Portfólio](https://hiagoferreira.netlify.app/)
+### 🔭 O que eu ando fazendo:
+- 🏢 Atuando como Tech Lead na **Ivy Group S/A**, desenvolvendo soluções estratégicas para os setores financeiro, varejo e agronegócio.
+- ⚙️ Integrando equipes na implementação de **Arquitetura Orientada a Eventos (EDA)** com Laravel e RabbitMQ para processamento em lote de alto volume.
+- 🤖 Desenvolvendo automações com inteligência artificial, integrando modelos **Gemini** para extração de dados e fluxos de trabalho.
+- 🔒 Focando intensamente em segurança estrutural (implementação de JWT, RLS avançado no Supabase, 2FA e criptografia AES-GCM).
+- 🌱 Priorizando a organização e qualidade de código utilizando padrões como *Conventional Commits* em inglês.
 
+### 💻 Minha Stack Principal
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs,ts,react,postgres,rabbitmq,linux,supabase&theme=dracula" alt="Minhas Tecnologias" />
+  </a>
+</p>
 
+### 🐍 Minhas Contribuições
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hiagoCf19/hiagoCf19/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hiagoCf19/hiagoCf19/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/hiagoCf19/hiagoCf19/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
 
-
-
-
-
+### 🌐 Me encontre na web
+<p align="left">
+  <a href="https://www.linkedin.com/in/dev-hiago79216/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://hiagoferreira.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio">
+  </a>
+</p>
